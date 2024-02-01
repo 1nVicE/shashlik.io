@@ -1,0 +1,1068 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\ajax\libs\jquery\1.4.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://kafedebut.ru/
+File Name: C:\Downloaded Web Sites\kafedebut.ru\index.htm
+Content Type: text/html
+
+Uri: https://kafedebut.ru/banketnyj-zal
+File Name: C:\Downloaded Web Sites\kafedebut.ru\banketnyj-zal.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/dostavka-shashlyka
+File Name: C:\Downloaded Web Sites\kafedebut.ru\dostavka-shashlyka.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\kafedebut.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kafedebut.ru/js/jquery-1.7.1.min.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\js\jquery-1.7.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://kafedebut.ru/js/jquery.flexslider-min.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\js\jquery.flexslider-min.js
+Content Type: application/x-javascript
+
+Uri: https://kafedebut.ru/js/jquery.mobilemenu.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\js\jquery.mobilemenu.js
+Content Type: application/x-javascript
+
+Uri: https://kafedebut.ru/js/jquery.sticky.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\js\jquery.sticky.js
+Content Type: application/x-javascript
+
+Uri: https://kafedebut.ru/js/script.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://kafedebut.ru/js/superfish.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\js\superfish.js
+Content Type: application/x-javascript
+
+Uri: https://kafedebut.ru/kontakty
+File Name: C:\Downloaded Web Sites\kafedebut.ru\kontakty.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/korzina
+File Name: C:\Downloaded Web Sites\kafedebut.ru\korzina.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/menyu
+File Name: C:\Downloaded Web Sites\kafedebut.ru\menyu.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/modules/Gallery/images/next.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\images\next.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/modules/Gallery/images/previous.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\images\previous.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/modules/Gallery/images/uppage.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\images\uppage.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/modules/Gallery/lib/jquery/jquery.mousewheel.pack.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\lib\jquery\jquery.mousewheel.pack.js
+Content Type: application/x-javascript
+
+Uri: https://kafedebut.ru/modules/Gallery/templates/css/Fancybox.css
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\templates\css\Fancybox.css
+Content Type: text/css
+
+Uri: https://kafedebut.ru/modules/Gallery/templates/fancybox/blank.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\templates\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/modules/Gallery/templates/fancybox/fancybox-x.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\templates\fancybox\fancybox-x.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/modules/Gallery/templates/fancybox/fancybox-y.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\templates\fancybox\fancybox-y.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/modules/Gallery/templates/fancybox/fancybox.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\templates\fancybox\fancybox.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/modules/Gallery/templates/fancybox/fancy_title_over.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\templates\fancybox\fancy_title_over.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/modules/Gallery/templates/fancybox/jquery.fancybox.pack.js
+File Name: C:\Downloaded Web Sites\kafedebut.ru\modules\Gallery\templates\fancybox\jquery.fancybox.pack.js
+Content Type: application/x-javascript
+
+Uri: https://kafedebut.ru/otzivy
+File Name: C:\Downloaded Web Sites\kafedebut.ru\otzivy.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/1/15
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\1\15.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/1/30
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\1\30.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/1/32
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\1\32.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/1/34
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\1\34.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/1/37
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\1\37.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/1/38
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\1\38.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/3/15
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\3\15.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/3/30
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\3\30.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/3/32
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\3\32.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/3/34
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\3\34.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/3/37
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\3\37.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/3/38
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\3\38.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/4/15
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\4\15.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/4/30
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\4\30.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/4/32
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\4\32.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/4/34
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\4\34.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/4/37
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\4\37.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/4/38
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\4\38.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/5/15
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\5\15.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/5/30
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\5\30.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/5/32
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\5\32.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/5/34
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\5\34.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/5/37
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\5\37.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/5/38
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\5\38.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/7/15
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\7\15.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/7/30
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\7\30.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/7/32
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\7\32.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/7/34
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\7\34.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/7/37
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\7\37.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/products/byhierarchy/7/38
+File Name: C:\Downloaded Web Sites\kafedebut.ru\products\byhierarchy\7\38.html
+Content Type: text/html
+
+Uri: https://kafedebut.ru/tmp/cache/stylesheet_combined_24a7c7eb5e2dc804263b4453ca65d91c.css
+File Name: C:\Downloaded Web Sites\kafedebut.ru\tmp\cache\stylesheet_combined_24a7c7eb5e2dc804263b4453ca65d91c.css
+Content Type: text/css
+
+Uri: https://kafedebut.ru/tmp/cache/stylesheet_combined_ab413fecc3abf81faef6d7222b7e53c3.css
+File Name: C:\Downloaded Web Sites\kafedebut.ru\tmp\cache\stylesheet_combined_ab413fecc3abf81faef6d7222b7e53c3.css
+Content Type: text/css
+
+Uri: https://kafedebut.ru/uploads/debut/basket_add.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\basket_add.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/debut/bg-2-tail.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\bg-2-tail.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/bg-3-tail.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\bg-3-tail.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/bg-4-tail.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\bg-4-tail.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/debut/bg-5-tail.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\bg-5-tail.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/bg-6-tail.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\bg-6-tail.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/bg-7-bottom.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\bg-7-bottom.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/bg-7-top.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\bg-7-top.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/debut/body-bg.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\body-bg.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/border-bot.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\border-bot.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/carousel-control.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\carousel-control.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/debut/checkbox.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\checkbox.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/link-2-marker.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\link-2-marker.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/debut/list-1-marker.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\list-1-marker.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/debut/list-3-line.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\list-3-line.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/list-header-line.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\list-header-line.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/list-img1.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/debut/list-img2.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/debut/menu-li-li-li-line.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\menu-li-li-li-line.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/menu-li-li-line.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\menu-li-li-line.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/menu-li-line.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\menu-li-line.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/menu-ul-tail.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\menu-ul-tail.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/menu-ul-ul-tail.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\menu-ul-ul-tail.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/debut/search-button.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\search-button.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/debut/select_right.gif
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\debut\select_right.gif
+Content Type: image/gif
+
+Uri: https://kafedebut.ru/uploads/images/Шашлычная-2.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Шашлычная-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/вырезка свин.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\вырезка свин.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/крылышки.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\крылышки.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/куриный.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\куриный.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/люля кур.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\люля кур.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/люлябар.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\люлябар.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/люлятел.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\люлятел.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/перепела.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\перепела.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/свиншейка.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\свиншейка.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/свиные ребра.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\свиные ребра.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/смечки.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\смечки.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/телвыр.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\телвыр.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/чалагач свиной.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\чалагач свиной.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/чалбар.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\чалбар.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/15.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\15.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/9.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\9.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/balls.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\balls.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/images/cake.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\cake.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/images/dancing.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\dancing.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/хровац.JPG
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\хровац.JPG
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/1.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\1.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/10.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\10.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/11.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\11.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/12.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\12.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/13.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\13.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/14.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\14.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/17.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\17.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/18.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\18.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/2.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\2.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/21.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\21.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/23351285583255.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\23351285583255.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/3e71351b-2dba-4a02-aa18-657940f42b9b.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\3e71351b-2dba-4a02-aa18-657940f42b9b.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/4.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\4.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/5.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\5.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/69082048_2506031323005809_3816733167310602240_n.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\69082048_2506031323005809_3816733167310602240_n.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/69104640_2506031253005816_6981362764329517056_n.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\69104640_2506031253005816_6981362764329517056_n.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/711.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\711.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/8.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\8.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/9.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\9.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/IMG_4780.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\IMG_4780.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/IMG_4782.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\IMG_4782.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/IMG_4786.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\IMG_4786.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/PHOTO-2018-11-16-17-19-08-1.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\PHOTO-2018-11-16-17-19-08-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/PHOTO-2018-11-16-17-19-08-2.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\PHOTO-2018-11-16-17-19-08-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/PHOTO-2018-11-16-17-19-08.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\PHOTO-2018-11-16-17-19-08.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/PHOTO-2018-11-16-17-19-09.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\PHOTO-2018-11-16-17-19-09.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/WhatsApp Image 2019-09-02 at 16.08.57.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\WhatsApp Image 2019-09-02 at 16.08.57.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/banket/_DSC6287.JPG
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\banket\_DSC6287.JPG
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/П-Овощи запечённые.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\П-Овощи запечённые.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/П-Шашлык из свиных рёбрышек.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\П-Шашлык из свиных рёбрышек.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/П-Шашлык из сёмги.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\П-Шашлык из сёмги.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/П-baaf16_71a2059f4e1942bb87857dca372bb6fe~mv2.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\П-baaf16_71a2059f4e1942bb87857dca372bb6fe~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/П-baaf16_f05c206508cb42e4949a3a741d92d374~mv2.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\П-baaf16_f05c206508cb42e4949a3a741d92d374~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/обложка.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\обложка.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/017PvXCWmH0.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\017PvXCWmH0.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/AQ-VaBLZOQE.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\AQ-VaBLZOQE.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/EhkcLeIXFGE.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\EhkcLeIXFGE.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/IMG_7718.JPG
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\IMG_7718.JPG
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/IMG_7947.JPG
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\IMG_7947.JPG
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/k7WD9tucorE.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\k7WD9tucorE.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/MwyyRCXS8NY.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\MwyyRCXS8NY.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/N2vJ-9rnDR0.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\N2vJ-9rnDR0.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/WhatsApp Image 2.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\WhatsApp Image 2.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/WhatsApp Image 2020-05-20 at 20.45.47.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\WhatsApp Image 2020-05-20 at 20.45.47.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/WhatsApp Image 2020-05-20 at 20.45.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\WhatsApp Image 2020-05-20 at 20.45.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/WhatsApp Image 2020-05-20.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\WhatsApp Image 2020-05-20.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/XAaKo842KU0.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\XAaKo842KU0.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/z1MbBfyXi8A.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\z1MbBfyXi8A.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/galereya-novaya/ZlfLXqIoSFE.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\galereya-novaya\ZlfLXqIoSFE.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/002.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\002.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/003.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\003.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/004.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\004.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/005.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\005.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/006.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\006.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/007.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\007.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/008.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\008.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/009.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\009.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/010.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\010.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/011.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\011.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/menu/012.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\menu\012.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/716.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\716.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/DSC_0825.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\DSC_0825.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/DSC_0859.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\DSC_0859.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/DSC_0863.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\DSC_0863.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/DSC_1338.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\DSC_1338.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4314.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4314.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4316.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4316.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4325.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4325.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4338.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4338.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4346.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4346.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4347.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4347.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4348.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4348.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4352.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4352.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4355.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4355.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4357.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4357.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/Gallery/shashlik/_DSC4361.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Gallery\shashlik\_DSC4361.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/105-3.JPG
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\105-3.JPG
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/110-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\110-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/111-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\111-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/112-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\112-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/113-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\113-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/114-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\114-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/115-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\115-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/116-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\116-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/117-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\117-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/118-3.JPG
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\118-3.JPG
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/12-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\12-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/13-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\13-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/134-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\134-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/135-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\135-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/136-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\136-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/137-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\137-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/138-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\138-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/139-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\139-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/14-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\14-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/140-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\140-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/141-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\141-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/142-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\142-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/143-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\143-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/145-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\145-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/146-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\146-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/147-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\147-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/148-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\148-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/149-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\149-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/150-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\150-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/151-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\151-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/152-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\152-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/153-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\153-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/154-3.JPG
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\154-3.JPG
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/155-3.JPG
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\155-3.JPG
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/156-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\156-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/157-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\157-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/158-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\158-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/159-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\159-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/16-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\16-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/160-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\160-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/161-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\161-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/162-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\162-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/163-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\163-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/164-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\164-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/165-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\165-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/166-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\166-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/167-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\167-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/168-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\168-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/169-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\169-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/17-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\17-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/170-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\170-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/171-3.jpeg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\171-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/172-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\172-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/173-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\173-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/174-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\174-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/175-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\175-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/176-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\176-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/177-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\177-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/178-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\178-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/179-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\179-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/180-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\180-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/181-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\181-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/20-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\20-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/21-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\21-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/22-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\22-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/23-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\23-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/25-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\25-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/7-8.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\7-8.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/72-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\72-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/73-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\73-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/74-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\74-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/75-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\75-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/76-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\76-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/77-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\77-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/78-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\78-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/79-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\79-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/8-8.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\8-8.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/80-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\80-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/9-8.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\9-8.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/91-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\91-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/GalleryThumbs/92-3.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\GalleryThumbs\92-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/grilled-mushrooms-2.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\grilled-mushrooms-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/hash1.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\hash1.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/images/Healthy-Grilled-Salmon-Recipe.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\Healthy-Grilled-Salmon-Recipe.jpg
+Content Type: image/jpeg
+
+Uri: https://kafedebut.ru/uploads/images/rings.png
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\rings.png
+Content Type: image/png
+
+Uri: https://kafedebut.ru/uploads/images/sous-vide-lamb-kebab.jpg
+File Name: C:\Downloaded Web Sites\kafedebut.ru\uploads\images\sous-vide-lamb-kebab.jpg
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/20323936
+File Name: C:\Downloaded Web Sites\kafedebut.ru\watch\20323936
+Content Type: image/gif
+
